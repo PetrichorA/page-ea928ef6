@@ -1,1 +1,0 @@
-var config={coinUnitPlaces:12,txMinConfirms:10,coinSymbol:"XMR",openAliasPrefix:"xmr",coinName:"Monero",coinUriPrefix:"monero:",addressPrefix:18,integratedAddressPrefix:19,feePerKB:new JSBigInt("10000000000"),dustThreshold:new JSBigInt("1000000"),txChargeRatio:.5,defaultMixin:3,idleTimeout:10,idleWarningDuration:20,maxBlockNumber:5e8,avgBlockTime:60,debugMode:!1};
